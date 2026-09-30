@@ -62,3 +62,18 @@ Pada pertemuan ini dilakukan penerapan konsep recomposition dan UI lifecycle pad
 </p>
 
 ---
+
+## Pertemuan 5 — Networking & Architecture
+
+Pada pertemuan ini data produk dan kategori diambil dari API menggunakan Retrofit dan Gson Converter, lalu dikelola dengan arsitektur MVVM. UI State direpresentasikan menggunakan StateFlow (Loading, Success, Error), dan gambar produk dimuat dengan library Coil.
+
+### Screenshot
+
+<p align="center">
+  <img src="screenshots/pertemuan%205/Screenshot_20260930_180349_Jualan.png" width="180">
+  <img src="screenshots/pertemuan%205/Screenshot_20260930_180359_Jualan.png" width="180">
+  <img src="screenshots/pertemuan%205/Screenshot_20260930_182302_Jualan.png" width="180">
+  <img src="screenshots/pertemuan%205/Screenshot_20260930_180414_Jualan.png" width="180">
+</p>
+
+---
